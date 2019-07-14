@@ -1,0 +1,7 @@
+{
+  "@quasar/graphql": {
+    "options": [
+      "apollo"
+    ]
+  }
+}
